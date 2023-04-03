@@ -11,3 +11,4 @@ function WhatToDoForLunch (hungry, availableTime) {
   console.log("Available time is", availableTime);
 }
 ```
+s
